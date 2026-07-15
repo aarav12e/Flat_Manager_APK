@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Nestlist",
+    "slug": "nestlist-flat-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1B2338"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aarav.nestlist"
+    },
+    "android": {
+      "package": "com.aarav.nestlist",
+      "adaptiveIcon": {
+        "backgroundColor": "#1B2338"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
