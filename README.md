@@ -107,6 +107,7 @@ Once you seed the database, you can log in using these preset credentials in the
 *   **Society Admin Account**:
     *   **Phone**: `9999900000`
     *   **Password**: `admin123`
+      
 *   **Flat Owner Account (A-102)**:
     *   **Phone**: `9876500002`
     *   **Password**: `pass123`
