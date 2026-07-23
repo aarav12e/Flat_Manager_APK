@@ -4,7 +4,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 // Node.js backend integration URL. Uses the local network IP to support
 // both simulated and physical devices on the local Wi-Fi.
 // -----------------------------------------------------------------------
-export const BASE_URL = "http://10.70.196.117:5001/api";
+export const BASE_URL = "https://flat-manager-apk.onrender.com/api";
 
 const SESSION_KEY = "nestlist_session_v1";
 const TOKEN_KEY = "nestlist_token_v1";
