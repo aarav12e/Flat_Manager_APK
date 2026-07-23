@@ -13,13 +13,16 @@
       "bundleIdentifier": "com.aarav.nestlist"
     },
     "android": {
-      "package": "com.aarav.nestlist",
-      "adaptiveIcon": {
-        "backgroundColor": "#1B2338"
-      }
+      "package": "com.aarav.nestlist"
     },
     "web": {
       "bundler": "metro"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c69ff092-1399-4d5f-9f54-85b5f6912764"
+      }
+    },
+    "owner": "aarav12e"
   }
 }
